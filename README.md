@@ -1,2 +1,2 @@
 # trial-html
-My first ever trial to code. Starting off with learning html. 
+My first trial to code ever. Starting off with learning html. 
