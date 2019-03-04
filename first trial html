@@ -1,5 +1,23 @@
  <!doctype html>
  <html>
  <head>
- <meta http-equiv=
- name="robots"
+ <meta http-equiv="content-type" content="text/html; charset=utf-8">
+ <meta http-equiv="content-language" content="en,bg">
+ <meta http-equiv="refresh" content="15; url=firsttrialhtml.html">
+ <meta name="description" content="personal page for exercising my html coding">
+ <meta name="keywords" content="first page, coding, html">
+ <meta name="robots" content="index, follow">
+ <meta name="document-state" content="dynamic">
+ <meta name="document-state" content="static">
+ <meta name="revisit-after" content="10 days">
+ <meta name="classification" content="coders">
+ <meta name="copyright" content="iGaming">
+ <meta name="author" content="Cauliflower Vivian">
+ <meta name="reply-to" content="user@mail.corp.com">
+ <title> My first html page </title>
+ </head>
+ <body>
+   <h1> WOOOW AMAZING PAGE! You are so good at coding. Keep going </h1>
+   <p> show them whose number one </p>
+</body>
+</html>
